@@ -5,7 +5,7 @@
 * [Warning](#warning)
 * [Technologies](#technologies)
 ## About
-Simple server-client application using IPC. Chatrooms a'la discord and private messages :wink:
+Simple server-client application using IPC. Chatrooms a'la discord and private messages
 ## Files
 - s.c- sever program
 - c.c- client program
