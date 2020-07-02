@@ -23,7 +23,7 @@ $ make
 $ ./s
 ```
 ```
-$./c
+$ ./c
 ```
 2. By hand
 ```
@@ -34,7 +34,7 @@ $ gcc -w -Wall c.c -o c
 $ ./s
 ```
 ```
-$./c
+$ ./c
 ```
 ## Warning
 IPC mechanics don't work the same on every dystribution of Linux. This project was tested on Ubuntu, Mint and OpenSuse (VM). It worked correctly on only last one. I asked about this problem my teacher, but she didn't know how to fix it, so do i.
