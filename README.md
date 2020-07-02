@@ -6,6 +6,8 @@
 * [Technologies](#technologies)
 ## About
 Simple server-client application using IPC. Chatrooms a'la discord and private messages
+
+There is one server and max 9 users. They can chat with each others, but communication is supervised by server- no direct messages from user to user.
 ## Files
 - s.c- sever program
 - c.c- client program
